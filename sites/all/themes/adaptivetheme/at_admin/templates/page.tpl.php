@@ -9,7 +9,6 @@
       </div>
     </div>
   </div>
-
   <div id="header" class="content-header">
     <div class="container">
       <header<?php print $content_header_attributes; ?>>
