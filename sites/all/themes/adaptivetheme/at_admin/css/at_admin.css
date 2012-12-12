@@ -1998,8 +1998,6 @@ table.context-admin td.ctools-export-ui-operations {
   padding: 20px 20px 100px;
   background: #eee;
 }
-
-
 /* Media query test for vertical tabs */
 
 /* Tablet landscape */
@@ -2012,7 +2010,6 @@ table.context-admin td.ctools-export-ui-operations {
     width: 200px;
   }
 }
-
 /* Standard layout */
 @media only screen and (min-width:1025px) {
   div.vertical-tabs  {
@@ -2023,7 +2020,6 @@ table.context-admin td.ctools-export-ui-operations {
     width: 240px;
   }
 }
-
 /* Helpful classes for hiding content */
 .offscreen {
   position: absolute;
@@ -2036,21 +2032,7 @@ table.context-admin td.ctools-export-ui-operations {
 .element-hidden {
   display: none;
 }
-
 /* Experimental */
 input[type="radio"],
 input[type="checkbox"] {
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
